@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tincy
-- 👀 I’m interested in wed develop
+- 👀 I’m interested in web develop
 - 🌱 I’m currently learning Fullstack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
